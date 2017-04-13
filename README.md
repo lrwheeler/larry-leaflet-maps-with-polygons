@@ -2,7 +2,7 @@
 
 ## Live links (replace with your own)
 - Leaflet Map https://lrwheeler.github.io/larry-leaflet-maps-with-polygons/index.html
-- Google Sheets template https://docs.google.com/spreadsheets/d/18rnX-yoX6Q-1TfBghFRrUi2bKm6NJZN_DikAa1KU4UE/edit#gid=0
+- Google Sheets template https://docs.google.com/spreadsheets/d/1iCxsmCIUi70Dx91kmNqNPUjcP6gGgNjMjk5WdHw2zFo/edit#gid=0
 
 ## Create your own
 - See video with step-by-step tutorial in *Data Visualization for All* http://www.datavizforall.org/leaflet/with-google-sheets/
